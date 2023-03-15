@@ -9,3 +9,4 @@ maybe do some little games too why not eh,
 add my cv to website!!,
 add some other cool js to website,
 add api call to website too,
+MAKe a template html and css project with like just the titles and the right css and stuff just neutral colours and like stuff yeah
